@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7lWqUZK3Nk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victus\\Downloads\\MusicStoreApp\\MusicStoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\Victus\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
